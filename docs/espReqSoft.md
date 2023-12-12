@@ -8,7 +8,7 @@
 
 ## Requisito 1 (RU1) - Coleta de dados
 
-A aplicação deverá coletar dados de PIB em formato CSV da Internet ou do disco.
+A aplicação deverá coletar dados de PIB em formato CSV, usando a API de dados abertos do Banco Central do Brasil.
 
 ## Requisito 2 (RU2) - Plotar o gráfico dos dados
 
@@ -23,6 +23,6 @@ A aplicação deverá coletar dados em formato CSV da Internet ou do disco.
 
 ## Requisitos de sistema
 
-O
+O sistema deve ficar pronto para poder ser implementado na web.
 
 ## Considerações finais
